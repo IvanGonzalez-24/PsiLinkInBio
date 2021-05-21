@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image: url("/images/purpbackground.jpg");
+  background-image: url("purpbackground.jpg");
   background-size: 510px;
   font-family: "Ralway", sans-serif;
 }
